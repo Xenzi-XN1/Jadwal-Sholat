@@ -11,7 +11,7 @@ $ python jadwal_sholat.py.py
 
 ```json
 Apikey = {
- "Link_dow":"https://cararegistrasi.com/K3z7f"
+ "Apikey":"BDJF9FHC7RB3ORJF8H2BF9FJV8J3BD9CJV8H3"
 }
 ```
 
